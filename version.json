@@ -1,0 +1,14 @@
+{
+  "appVersionCode": 2,
+  "appVersionName": "1.1.0",
+  "developer": "SB Studio",
+  "releaseDate": "2026-11-18",
+  "releaseNotes": "• Офлайн-карта Израиля (israel.mbtiles, зум 8–14) и кнопка её скачивания в приложении\n• Статус загрузки карты и переключатель языка RU/HE/EN\n• Резервные источники тайлов и собственный release-ключ SB Studio\n• Обновление базы стационарных радаров Гатсо (трассы 1, 2, 4, 6, 20)\n• Улучшены точность скорости и ночной режим карты\n• Новые станции зарядки электромобилей, исправлен вылет при отказе в доступе к GPS\n• Проверка SHA-256 скачанной карты перед установкой",
+  "apkDownloadUrl": "https://github.com/sredizemnomorskijsasa231999-cloud/israel-offline-map/releases/latest/download/IsraelOfflineMap.apk",
+  "eventsVersion": 20261118,
+  "eventsDownloadUrl": "",
+  "mapVersion": 202611182,
+  "mapDownloadUrl": "https://github.com/sredizemnomorskijsasa231999-cloud/israel-offline-map/releases/latest/download/israel.mbtiles",
+  "mapSha256": "2D4159A04D23AFB0703EF0264CF335AA614B1E3A7A1964BB69AAEF4D17C326C7",
+  "mapMaxZoom": 14
+}
