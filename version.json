@@ -3,12 +3,16 @@
   "appVersionName": "1.1.0",
   "developer": "SB Studio",
   "releaseDate": "2026-11-18",
-  "releaseNotes": "• Офлайн-карта Израиля (israel.mbtiles, зум 8–14) и кнопка её скачивания в приложении\n• Статус загрузки карты и переключатель языка RU/HE/EN\n• Резервные источники тайлов и собственный release-ключ SB Studio\n• Обновление базы стационарных радаров Гатсо (трассы 1, 2, 4, 6, 20)\n• Улучшены точность скорости и ночной режим карты\n• Новые станции зарядки электромобилей, исправлен вылет при отказе в доступе к GPS\n• Проверка SHA-256 скачанной карты перед установкой",
+  "releaseNotes": "• Офлайн-карта Израиля зумов 8–16 (219 МБ), загрузка в приложении и проверка SHA-256\n• Локальный поиск городов, улиц и POI на RU/EN/HE (геобаза 313 МБ)\n• Офлайн-маршрутизация по графу дорог OSM; с интернетом приоритет у свежего OSRM\n• Избранные места и меню по долгому нажатию: маршрут, камера, избранное\n• Автообновление карты, геобазы и APK только из официального GitHub-репозитория с SHA-256\n• Переключатель языка RU/HE/EN, ночной режим, камеры Гатсо, EV-зарядки, SOS",
   "apkDownloadUrl": "https://github.com/sredizemnomorskijsasa231999-cloud/israel-offline-map/releases/latest/download/IsraelOfflineMap.apk",
   "eventsVersion": 20261118,
   "eventsDownloadUrl": "",
-  "mapVersion": 202611192,
+  "mapVersion": 202611193,
   "mapDownloadUrl": "https://github.com/sredizemnomorskijsasa231999-cloud/israel-offline-map/releases/latest/download/israel.mbtiles",
-  "mapSha256": "6EF9D1834531ACFC263C4863E4A88146AC41B0EC99DC7FC75843489BD3FE96CC",
-  "mapMaxZoom": 14
+  "mapSha256": "F2484194CB9FC9A8BE2DAF88058FEE48594BA91E83E7DABFD1D277966D8121D7",
+  "mapMaxZoom": 16,
+  "geoVersion": 202611193,
+  "geoSha256": "12F24528791192777AA43BC5EE732DDDD25A64231C97111969402F123EA07A73",
+  "geoDownloadUrl": "https://github.com/sredizemnomorskijsasa231999-cloud/israel-offline-map/releases/latest/download/israel_geo.db",
+  "apkSha256": "E7255CC2416CCAEF01E0EBBDF95E1712257AD94BB3B4AB8624196A7CE71E11AD"
 }
