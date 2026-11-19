@@ -7,8 +7,8 @@
   "apkDownloadUrl": "https://github.com/sredizemnomorskijsasa231999-cloud/israel-offline-map/releases/latest/download/IsraelOfflineMap.apk",
   "eventsVersion": 20261118,
   "eventsDownloadUrl": "",
-  "mapVersion": 202611182,
+  "mapVersion": 202611192,
   "mapDownloadUrl": "https://github.com/sredizemnomorskijsasa231999-cloud/israel-offline-map/releases/latest/download/israel.mbtiles",
-  "mapSha256": "2D4159A04D23AFB0703EF0264CF335AA614B1E3A7A1964BB69AAEF4D17C326C7",
+  "mapSha256": "6EF9D1834531ACFC263C4863E4A88146AC41B0EC99DC7FC75843489BD3FE96CC",
   "mapMaxZoom": 14
 }
