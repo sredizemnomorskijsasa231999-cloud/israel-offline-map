@@ -5,14 +5,15 @@
   "releaseDate": "2026-11-18",
   "releaseNotes": "• Офлайн-карта Израиля зумов 8–16 (219 МБ), загрузка в приложении и проверка SHA-256\n• Локальный поиск городов, улиц и POI на RU/EN/HE (геобаза 313 МБ)\n• Офлайн-маршрутизация по графу дорог OSM; с интернетом приоритет у свежего OSRM\n• Избранные места и меню по долгому нажатию: маршрут, камера, избранное\n• Автообновление карты, геобазы и APK только из официального GitHub-репозитория с SHA-256\n• Переключатель языка RU/HE/EN, ночной режим, камеры Гатсо, EV-зарядки, SOS",
   "apkDownloadUrl": "https://github.com/sredizemnomorskijsasa231999-cloud/israel-offline-map/releases/latest/download/IsraelOfflineMap.apk",
-  "eventsVersion": 20261118,
-  "eventsDownloadUrl": "",
-  "mapVersion": 202611193,
+  "eventsVersion": 20261119,
+  "eventsDownloadUrl": "https://github.com/sredizemnomorskijsasa231999-cloud/israel-offline-map/releases/latest/download/events.json",
+  "mapVersion": 20261119,
   "mapDownloadUrl": "https://github.com/sredizemnomorskijsasa231999-cloud/israel-offline-map/releases/latest/download/israel.mbtiles",
   "mapSha256": "F2484194CB9FC9A8BE2DAF88058FEE48594BA91E83E7DABFD1D277966D8121D7",
   "mapMaxZoom": 16,
-  "geoVersion": 202611193,
-  "geoSha256": "12F24528791192777AA43BC5EE732DDDD25A64231C97111969402F123EA07A73",
+  "geoVersion": 20261119,
+  "geoSha256": "AF9996CFA2355BED7114121DB1A9D9DB04482AEE4C5029A67A4D5CAFDC018F8A",
   "geoDownloadUrl": "https://github.com/sredizemnomorskijsasa231999-cloud/israel-offline-map/releases/latest/download/israel_geo.db",
-  "apkSha256": "E7255CC2416CCAEF01E0EBBDF95E1712257AD94BB3B4AB8624196A7CE71E11AD"
+  "apkSha256": "B50FCF5980EFD4085E8F6FC54654895357CE6BA6349048F4BF377052220B3C7F",
+  "eventsSha256": "796592BB47478BD1CD75638B711D2DBD650A8B75B4C4A5702F711C39AF130A46"
 }
